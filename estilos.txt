@@ -1,1 +1,2 @@
 Colores: blanco y verde
+Fondo: crema claro
